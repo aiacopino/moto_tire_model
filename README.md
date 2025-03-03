@@ -1,5 +1,5 @@
 # moto_tire_model
-Modeling a motorbike tire in MATLAB for optimization involves multiple components, including structural mechanics, material properties, contact dynamics, and aerodynamics. Here’s how you can proceed:
+Modeling a motorbike tire in MATLAB for optimization involves multiple components, including structural mechanics, material properties, contact dynamics, and aerodynamics. 
 
 ### **1. Define the Objectives & Constraints**
 - Optimize for **grip, durability, rolling resistance, weight, or aerodynamics**.
