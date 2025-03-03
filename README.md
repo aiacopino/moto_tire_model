@@ -39,4 +39,9 @@ Modeling a motorbike tire in MATLAB for optimization involves multiple component
 - Compare with real-world **test data from sensors, telemetry, or track testing**.
 - Run **parameter sweeps** to find the best configuration.
 
-Would you like to focus on a specific aspect first, like friction modeling or structural analysis?
+https://ch.mathworks.com/products/connections/product_detail/ftire.html
+https://blogs.mathworks.com/student-lounge/2022/06/07/mf-tyre/
+https://www.reddit.com/r/FSAE/comments/18gwfwn/creating_a_tire_model_with_matlab_curve_fitting/
+http://mathworks.com/videos/matlab-and-simulink-racing-lounge-tire-modeling-extracting-results-from-a-large-data-set-98129.html
+https://www.mathworks.com/videos/matlab-and-simulink-racing-lounge-vehicle-modeling-part-2-powertrain-blockset-1502821383453.html
+https://www.mathworks.com/help/sdl/tires-and-vehicles.html
